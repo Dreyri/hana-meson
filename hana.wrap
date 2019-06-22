@@ -1,0 +1,7 @@
+[wrap-file]
+directory = hana-1.5.0
+source_url = https://github.org/boostorg/hana/archive/v1.5.0.zip
+source_filename = hana-1.5.0.zip
+source_hash = aa2578b4495f20d3576b64e526ed42f0ca80f22f87ff32e04026eeb1cae5322c
+
+patch_url = 
